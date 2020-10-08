@@ -1,0 +1,14 @@
+
+#login{
+  color:white;
+}
+#password{
+  color:white;
+}
+#grad {
+  background-image: linear-gradient(to right, #c4c0b3, #c4c0b3 );
+  text-align: center;
+  margin:10px 500px 0px 500px;
+  height:500px;
+}
+
